@@ -1,0 +1,5 @@
+variable "maforlap" {
+    type = string
+
+}
+
